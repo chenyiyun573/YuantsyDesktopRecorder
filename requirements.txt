@@ -1,0 +1,19 @@
+tqdm
+torch
+torchvision
+matplotlib
+numpy
+requests
+Pillow  # This is for PIL
+
+wandb
+einops
+tiktoken
+scipy
+
+pynput
+
+pyinstaller
+
+moviepy
+pygame
