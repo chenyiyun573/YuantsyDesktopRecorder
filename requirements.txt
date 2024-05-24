@@ -17,3 +17,8 @@ pyinstaller
 
 moviepy
 pygame
+
+python-dotenv
+
+openai 
+azure-identity

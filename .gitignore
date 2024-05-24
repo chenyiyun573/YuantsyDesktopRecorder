@@ -1,3 +1,5 @@
 .venv/
 desktop_log/
 build/
+
+.env
